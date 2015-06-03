@@ -61,3 +61,4 @@
 	- [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
 	- [SketchPlugins mailing list](http://sketchplugins.com/)
 	- [Awesome Sketch Plugins](http://awesome-sket.ch/)
+	- [Sketch Plugin Filter](http://sketchapphub.com/)
